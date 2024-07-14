@@ -1,0 +1,106 @@
+body{
+    text-align: center;
+    background-color: black;
+    text-decoration: white;
+    
+}
+p{
+  text-align: center;
+  color:white;
+    font-family: cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 1px 2px black,0 0 25px white, 0 0 5px white;
+
+}
+h1{
+    text-align: center;
+    color:white;
+    font-family: cursive,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 1px 2px black,0 0 25px white, 0 0 5px white;
+}
+h1{
+    text-align: center;
+    
+  }
+  p{
+    font-size: 30px;
+    text-align: center;
+  }
+  img{
+    width: 650px;
+    border: 4px;
+  }
+  body{
+    text-align: center;
+  }
+img{
+  
+    border-style: solid;
+    border: width 10px;
+    border-color: white;
+}
+div.img{
+  width: 90px;
+  height: 80px;
+  object-fit: contain;
+  width: 80;
+  height: 110;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body{
+  background: rgb(27,27,27);
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+
+}
+.card{
+  background:gray;
+  width: 270px;
+  height: 400px;
+  margin: 10px;
+  border-radius: 20px;
+}
+.card-image{
+  background-color: gray;
+  height: 150px;
+  margin-bottom: 15px;
+  background-size:cover ;
+  border-radius: 15px 15px 0 0;
+}
+.box-1{
+  background-image: url(taj_mahal5.jpg);
+}
+.box-2{
+  background-image: url(machupicchu-big.jpg);
+}
+.box-3{
+  background-image: url(great-wall.jpg);
+}
+.box-4{
+  background-image: url(christ-redeemer.jpg);
+}
+.box-5{
+  background-image: url(chichen-itza.jpg);
+}
+.box-6{
+   background-image: url(colosseum-big.jpg);
+}
+.box-7{
+  background-image: url("https://images.unsplash.com/photo-1548786811-dd6e453ccca7?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ");
+}
+.card-image{
+  font-size: 15px;
+}
+.center{
+  text-align: center;
+}
+
